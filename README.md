@@ -19,5 +19,8 @@ bash npm run dev
 смена языка lib/contexts/language-context.tsx       // Default to Russian language   const [language, setLanguage] = useState<Language>('ru') 
   // Default to English language     const [language, setLanguage] = useState<Language>('en')
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/55d135dd-307e-4fb0-bcbe-6693c195825b)
 
+![image](https://github.com/user-attachments/assets/c24b62a4-c9b4-4f94-8459-8576653e9f09)
+
+![image](https://github.com/user-attachments/assets/07f64b91-430f-42ba-b6fd-f410c718183a)
